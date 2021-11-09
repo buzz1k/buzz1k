@@ -1,11 +1,8 @@
 ### Hi there 👋 I'm Sergey
 
-<br>
 
 ##### - I'm Junior Software Developer :)
 
-
-<br>
 
 ### Languages and tools
 <p align="center">
@@ -22,7 +19,7 @@
 <br>
 
 ### My Codewars account
-<img src="https://www.codewars.com/users/buzz1k/badges/small">
+<img src="https://www.codewars.com/users/buzz1k/badges/small?theme=light">
 
 
 <!--
